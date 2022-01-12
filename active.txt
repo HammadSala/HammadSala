@@ -1,0 +1,8 @@
+call function with variable(product details) from outsie
+
+Append it on a global variable and let the product dict be appending
+
+====>
+function receive the variable values map it and insert in to global dictionary
+
+------------
