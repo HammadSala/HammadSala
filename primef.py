@@ -17,7 +17,8 @@ def primeFactors(n):
         # while i divides n , print i and divide n
         print("sqrt(n))-->itrstion", math.sqrt(n), i)
         while n % i== 0:
-            print(i),
+            print(i)
+            print(i)
             n = n // i
             
     # Condition if n is a prime
