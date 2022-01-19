@@ -24,3 +24,4 @@ Have the program find prime numbers until the user chooses to stop asking for th
 ===============================================
 
 >>>>>>> master
+Trying for conflict and resolving Since we have done multiple fast forward we aregoing for 3 way recursive merge
