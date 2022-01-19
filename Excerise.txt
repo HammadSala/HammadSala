@@ -5,4 +5,22 @@ Keep a limit to how far the program will go.
 ===========================================================================
 Find e to the Nth Digit - COMPLETEd
 Formula = (1 + 1 / n)^n when n is infinity
+<<<<<<< HEAD
 ===============================================
+=======
+===============================================
+Prime Factorization - COMPLETED with the help of COMPLETEd
+Have the user enter a number and find all Prime Factors (if there are any) and display them.
+--
+There are few learings here
+1. Break only breaks from the current loop
+2.Formay usage
+3.Usage of math class
+4. Leart = divmod library
+5.Learnt prime factor,composite number
+============================================
+Next Prime Number - 
+Have the program find prime numbers until the user chooses to stop asking for the next one.
+===============================================
+
+>>>>>>> master
