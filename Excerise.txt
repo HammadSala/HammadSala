@@ -26,3 +26,6 @@ Trying for conflict and resolving Since we have done multiple fast forward we ar
 ---------
 Trying rebase
 on bone
+Git Rebase try from branch2
+-----------
+Rebase done
