@@ -5,9 +5,7 @@ Keep a limit to how far the program will go.
 ===========================================================================
 Find e to the Nth Digit - COMPLETEd
 Formula = (1 + 1 / n)^n when n is infinity
-<<<<<<< HEAD
 ===============================================
-=======
 ===============================================
 Prime Factorization - COMPLETED with the help of COMPLETEd
 Have the user enter a number and find all Prime Factors (if there are any) and display them.
@@ -23,6 +21,8 @@ Next Prime Number -
 Have the program find prime numbers until the user chooses to stop asking for the next one.
 ===============================================
 
->>>>>>> master
 Teting 2 brach and merge
 Trying for conflict and resolving Since we have done multiple fast forward we aregoing for 3 way recursive merge
+---------
+Trying rebase
+on bone
