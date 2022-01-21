@@ -17,7 +17,7 @@ There are few learings here
 4. Leart = divmod library
 5.Learnt prime factor,composite number
 ============================================
-Next Prime Number - 
+Next Prime Number - COMPLETEd
 Have the program find prime numbers until the user chooses to stop asking for the next one.
 ===============================================
 
