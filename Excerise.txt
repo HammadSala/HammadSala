@@ -29,3 +29,7 @@ on bone
 Git Rebase try from branch2
 -----------
 Rebase done
+====================
+Find Cost of Tile to Cover W x H Floor - Started 22-01
+Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+==========================
