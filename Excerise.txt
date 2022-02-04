@@ -33,6 +33,10 @@ Rebase done
 Find Cost of Tile to Cover W x H Floor - Started 22-01 - COMPLETEd
 Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 ==========================
-MOrtage Calculator: Started - 22-01-2022
+MOrtage Calculator: Started - 22-01-2022 - COMPLETED 24-01
 ==============
+Change Return Program - started 24-01
+The user enters a cost and then the amount of money given. 
+The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+
 
